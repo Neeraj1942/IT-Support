@@ -9,3 +9,23 @@ automatically assigned (basically leased)
 
 reservations can be done, and is done my using the mac address ->
 everytime the same mac address the same ip address is assigned
+
+
+DNS -> Domain name system 
+resolves domain names to IP addresses
+we find the name linked to the number. (yahoo to 748.0.0.1 ...etc)
+
+DNS -> Resolver -> Root Server ( these are the steps when we do not find any address like the number(ip address) )
+
+
+Active Directory -> is a service which stores lists and organizes
+Users
+Resources
+Groups
+
+organizational units represent parts in the domains ->
+Domains have further ->
+where the sub groups can have only few parts - union of the printer,users
+
+GPO -> group policy objects ->
+access to restrictions, users , secuirty and access 
