@@ -6,3 +6,6 @@ default gateway
 DNS server
 
 automatically assigned (basically leased)
+
+reservations can be done, and is done my using the mac address ->
+everytime the same mac address the same ip address is assigned
